@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\bin\Debug\PizzaShop.Repository.dll
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\bin\Debug\PizzaShop.Repository.pdb
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\bin\Debug\PetaPoco.dll
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\obj\Debug\PizzaShop.Repository.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\obj\Debug\PizzaShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\obj\Debug\PizzaShop.Repository.csproj.CopyComplete
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\obj\Debug\PizzaShop.Repository.dll
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\obj\Debug\PizzaShop.Repository.pdb
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\bin\Debug\PetaPoco.SqlKata.dll
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\bin\Debug\QueryBuilder.dll
+C:\Users\admin\source\repos\PdfPOC\PizzaShop.Repository\bin\Debug\PetaPoco.SqlKata.xml
